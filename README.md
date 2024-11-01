@@ -1,2 +1,2 @@
-# github-portfolio
+# portfolio
 Game design and devellopment
